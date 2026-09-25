@@ -4,7 +4,7 @@ Este repositório reúne os dados utilizados em uma atividade assíncrona da dis
 
 ## Arquivos
 
-- `cds_only.fasta`: sequências correspondentes às regiões codificantes (CDS).
+- `PCGs_dados.fasta`: sequências correspondentes às regiões codificantes (CDS).
 - `genoma_completo.fasta`: sequências dos genomas completos.
 - `golpe_1.fasta` a `golpe_4.fasta`: quatro conjuntos de sequências relacionados aos golpes analisados na atividade.
 - `vulpix_dados.fasta`: conjunto de sequências utilizado especificamente para a análise de Vulpix e suas variações.
@@ -15,7 +15,7 @@ Cada arquivo FASTA contém os identificadores das sequências no cabeçalho, pre
 
 | Arquivo | Número de sequências | Total de bases |
 | --- | ---: | ---: |
-| `cds_only.fasta` | 12 | 8.640 |
+| `PCGs_dados.fasta` | 12 | 8.640 |
 | `genoma_completo.fasta` | 12 | 25.296 |
 | `golpe_1.fasta` | 12 | 2.160 |
 | `golpe_2.fasta` | 12 | 2.160 |

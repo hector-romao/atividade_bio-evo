@@ -17,10 +17,6 @@ Cada arquivo FASTA contém os identificadores das sequências no cabeçalho, pre
 | --- | ---: | ---: |
 | `PCGs_dados.fasta` | 12 | 8.640 |
 | `genoma_completo.fasta` | 12 | 25.296 |
-| `golpe_1.fasta` | 12 | 2.160 |
-| `golpe_2.fasta` | 12 | 2.160 |
-| `golpe_3.fasta` | 12 | 2.160 |
-| `golpe_4.fasta` | 12 | 2.160 |
 | `vulpix_dados.fasta` | 7 | 1.282 |
 
 ## Como utilizar
